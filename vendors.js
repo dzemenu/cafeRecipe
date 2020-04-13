@@ -1,0 +1,3 @@
+var vendors={
+    id:"dilu",
+};
